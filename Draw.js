@@ -1,4 +1,3 @@
-
 (async () => {
   const img = new Image();
   img.crossOrigin = "anonymous";
